@@ -93,6 +93,9 @@ MATLAB/
 │
 ├── Matrices/
 │   └── matrix_multiplication.m
+|---bisection_method.m
+|---Newton_Rapshon_Method.m
+|---secant_method.m
 │
 ├── README.md
 
